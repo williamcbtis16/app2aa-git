@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>telefonos</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/fut01.jpg</url>
+                <title>fut01</title>
+                <filesize>66844</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/fut1.jpg</url>
+                <title>fut1</title>
+                <filesize>258571</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/fut2.jpg</url>
+                <title>fut2</title>
+                <filesize>99107</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/fut3.jpg</url>
+                <title>fut3</title>
+                <filesize>79130</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/fut4.jpg</url>
+                <title>fut4</title>
+                <filesize>298981</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/gam1.jpg</url>
+                <title>gam1</title>
+                <filesize>102272</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/gam2.jpg</url>
+                <title>gam2</title>
+                <filesize>220609</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/gam3.jpg</url>
+                <title>gam3</title>
+                <filesize>29987</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/gam4.jpg</url>
+                <title>gam4</title>
+                <filesize>41445</filesize>
+            </Image>
+            <Image>
+                <url>F:/DAM/2do Parcial/aplicaciones/app2/imagenes/gam5.jpg</url>
+                <title>gam5</title>
+                <filesize>118442</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
